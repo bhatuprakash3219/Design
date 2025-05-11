@@ -72,7 +72,17 @@
     <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/web-design.png" width="700"/></td>
     <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/web-design-2.png" width="700"/></td>
   </tr>
-
+  ### Logos
+     <tr>
+    <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/logo-3233.jpg".jpg" width="700"/></td>
+    <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/LOGO-2.jpg" width="700"/></td>
+    <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/LOGO-1.jpg" width="700"/></td>
+  </tr>
+   <tr>
+    <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Asset 3-100.jpg".jpg" width="700"/></td>
+    <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/LOGO-2.jpg" width="700"/></td>
+    <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Rankpluse-logo.png" width="700"/></td>
+  </tr>
 </table>
 
 
