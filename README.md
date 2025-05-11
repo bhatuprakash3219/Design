@@ -63,7 +63,12 @@
     <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/web-design.png" width="700"/></td>
     <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/web-design-2.png" width="700"/></td>
   </tr>
+
 </table>
+
+
+
+
 
 
 
