@@ -22,11 +22,7 @@
       <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/No-tabacco-day.jpg" width="700"/></td>
          <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/national-technology-1.jpg" width="700"/></td>
   </tr>
-      <tr>
-    <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/socia;-media 81.jpg" width="700"/></td>
-      <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/No-tabacco-day.jpg" width="700"/></td>
-         <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/national-technology-1.jpg" width="700"/></td>
-  </tr>
+    
        <tr>
   <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/army-day-1.jpg" width="700"/></td>
       <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/abedkar-jayanti.jpg" width="700"/></td>
@@ -59,7 +55,7 @@
   </tr>
     <tr>
       <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/esteem-6.png" width="700"/></td>
-      <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/esteem-2.png" width="700"/></td>
+      <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/web-development.png" width="700"/></td>
          <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/testimonials.png" width="700"/></td>
   </tr>
       <tr>
