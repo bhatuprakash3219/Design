@@ -22,7 +22,16 @@
       <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/No-tabacco-day.jpg" width="700"/></td>
          <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/national-technology-1.jpg" width="700"/></td>
   </tr>
-    
+      <tr>
+    <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/dussera-3.jpg" width="700"/></td>
+      <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Asset 1-8.png" width="700"/></td>
+         <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/dhanteras.jpg" width="700"/></td>
+  </tr>
+        <tr>
+    <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/dussera-6.jpg" width="700"/></td>
+      <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/DIWALI.jpg" width="700"/></td>
+         <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/dhanteras.jpg" width="700"/></td>
+  </tr>    
        <tr>
   <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/army-day-1.jpg" width="700"/></td>
       <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/abedkar-jayanti.jpg" width="700"/></td>
