@@ -73,7 +73,8 @@
     <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/web-design-2.png" width="700"/></td>
   </tr>
 </table>
- ### Post
+<div><strong>Logos</strong></div>
+ 
 <table>
      <tr>
     <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/logo-3233.jpg".jpg" width="700"/></td>
@@ -85,6 +86,7 @@
     <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/LOGO-5.jpg" width="700"/></td>
     <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Rankpluse-logo.png" width="700"/></td>
   </tr>
+  
 </table>
 
 
