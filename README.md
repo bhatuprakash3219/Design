@@ -88,6 +88,17 @@
   </tr>
   
 </table>
+<div><strong>Website</strong></div>
+ 
+<table>
+     <tr>
+    <td align="start"> ><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Nutrimetrcs-homepage.png" width="1000"/></td>
+    <td style="display:flex; flex-direction:column; align-items:strat;">><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Nutrimetrcs-blog.png" width="1000"/></td>
+ 
+  </tr>
+ 
+  
+</table>
 
 
 
