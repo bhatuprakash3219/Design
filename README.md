@@ -83,7 +83,7 @@
   </tr>
    <tr>
     <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Asset 3-100.jpg".jpg" width="700"/></td>
-    <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/LOGO-5.jpg" width="700"/></td>
+    <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/logo-1.png" width="700"/></td>
     <td><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Rankpluse-logo.png" width="700"/></td>
   </tr>
   
@@ -240,8 +240,19 @@
        <td valign="top">
       <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/20 Add  new card.png" width="500"/>
     </td>
- 
   </tr>
+   <tr>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/screen 1.png" width="500"/>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/screen 2.png" width="500"/>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/screen 3.jpg" width="500"/>
+    
+  </tr>
+ 
  
 </table>
 
