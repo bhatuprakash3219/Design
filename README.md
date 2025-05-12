@@ -91,14 +91,65 @@
 <div><strong>Website</strong></div>
  
 <table>
-     <tr>
-    <td align="start"> ><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Nutrimetrcs-homepage.png" width="1000"/></td>
-    <td style="display:flex; flex-direction:column; align-items:strat;">><img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Nutrimetrcs-blog.png" width="1000"/></td>
- 
+  <tr>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Nutrimetrcs-homepage.png" width="500"/>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Nutrimetrcs-blog.png" width="500"/>
+    </td>
   </tr>
- 
-  
+  <tr>
+      <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Shop.png" width="500"/>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Slide 16_9 - 8.png" width="500"/>
+    </td>
+  </tr>
+    <tr>
+      <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Cart.png" width="500"/>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Checkout.png" width="500"/>
+    </td>
+  </tr>
+      <tr>
+      <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Consultant (Corporate).png" width="500"/>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Consultant (Search ).png" width="500"/>
+    </td>
+  </tr>
+    <tr>
+      <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Consultant(Find Counsultant ID).png" width="500"/>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Join Us.png" width="500"/>
+    </td>
+  </tr>
+     <tr>
+      <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Consultant(Find Counsultant ID).png" width="500"/>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Login.png" width="500"/>
+    </td>
+  </tr>
+     <tr>
+      <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Slide 16_9 - 8.png" width="500"/>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Slide 16_9 - 9.png" width="500"/>
+    </td>
+  </tr>
 </table>
+
+
 
 
 
