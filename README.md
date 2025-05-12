@@ -178,11 +178,69 @@
 <table>
   <tr>
     <td valign="top">
-      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Nutrimetrcs-homepage.png" width="500"/>
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/1 screen.png" width="500"/>
     </td>
     <td valign="top">
-      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Nutrimetrcs-blog.png" width="500"/>
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/02 Onbording screen.png" width="500"/>
     </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/03 Login.png" width="500"/>
+    </td>
+       <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/03 Onbording screen.png" width="500"/>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/05 SING UP.png" width="500"/>
+    </td>
+  </tr>
+   <tr>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/06 Forgot password.png" width="500"/>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/08 home screen.png" width="500"/>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/09 Product detail.png" width="500"/>
+    </td>
+       <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/10 Near By Restaurant.png" width="500"/>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/11  Product.png" width="500"/>
+    </td>
+  </tr>
+    <tr>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/12 Order.png" width="500"/>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/13 Track.png" width="500"/>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/14 Profile.png" width="500"/>
+    </td>
+       <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/15 edit Profile.png" width="500"/>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/16 About us.png" width="500"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/17 Favorite.png" width="500"/>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/18 order History.png" width="500"/>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/19 Checkout.png" width="500"/>
+    </td>
+       <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/20 Add  new card.png" width="500"/>
+    </td>
+ 
   </tr>
  
 </table>
