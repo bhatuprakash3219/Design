@@ -147,6 +147,30 @@
       <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Slide 16_9 - 9.png" width="500"/>
     </td>
   </tr>
+    <tr>
+      <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/traveling.png" width="500"/>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/e-learn.png" width="500"/>
+    </td>
+  </tr>
+      <tr>
+      <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/edumin.png" width="500"/>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/dricub.png" width="500"/>
+    </td>
+  </tr>
+        <tr>
+      <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/choicy.png" width="500"/>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/avantage-2.png" width="500"/>
+    </td>
+  </tr>
 </table>
 
 
