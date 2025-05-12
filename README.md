@@ -1,4 +1,4 @@
-# Graphic-Design
+# Design
 ## Graphic-Design
 ### Post
 <table>
@@ -173,6 +173,19 @@
   </tr>
 </table>
 
+<div><strong>App</strong></div>
+ 
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Nutrimetrcs-homepage.png" width="500"/>
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/bhatuprakash3219/Graphic-Design/main/Nutrimetrcs-blog.png" width="500"/>
+    </td>
+  </tr>
+ 
+</table>
 
 
 
